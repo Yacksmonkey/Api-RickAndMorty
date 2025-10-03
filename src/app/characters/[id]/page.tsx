@@ -50,6 +50,7 @@ export default async function CharacterDetailPage({ params }: Props) {
                         {character.episode.length} episodes
                     </p>
                 </div>
+
             </div>
         </main>
     );
